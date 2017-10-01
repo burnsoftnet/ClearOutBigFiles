@@ -8,3 +8,5 @@ This script will allow you to set the max size in kb, so anything bigger then th
 <img src="https://github.com/burnsoftnet/ClearOutBigFiles/blob/master/help_menu.png?raw=true">
 <br/><br/>
 This is a script that you can setup via cron to run on a regular basis for a variety of paths that you want to clean up, or if it is just the one, you can preset some defaults and all you have to do is pass the path that you want to clean up.
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JSW8XEMQVH4BE)]
